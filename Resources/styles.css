@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  background-color: Lightyellow;
+}
+
+button{
+  font-family: Castoro;
+  font-size: 1.5rem;
+  background-color: Red;
+  color: White;
+  padding: 0 50px;
+  border: Solid Red 2px;
+  border-radius: 5px;
+}
+
+button:hover{
+  background: Transparent;
+  color: Red;
+}
+
+input, select{
+  font-family: Castoro;
+  font-size: 1rem;
+  width: 300px;
+}
+
+.placeholder{
+  color: Grey;
+}
+
+.Plane{
+  height: auto;
+  width: 30%;
+}
+
+.Logo{
+  height: auto;
+  width: 15%;
+  margin: 75px;
+}
